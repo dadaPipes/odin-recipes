@@ -1,3 +1,2 @@
-Learning how to use the terminal in Linux, git, and some basic HTML.
+Learning how to use the terminal in Linux, git, and some basic HTML and css.
 
-This is gonna be brutal!
