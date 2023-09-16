@@ -1,0 +1,42 @@
+/* font */
+
+*{
+    font-family: "Times New Roman", Times, serif;
+}
+
+/*header */
+
+h1{
+    background-color: red;
+    color: green;
+}
+
+h2, h3{
+    background-color: aqua;
+    color: black;
+}
+
+/* image */
+
+img{
+    height: 200px;
+    width: auto;
+}
+
+/* list*/
+
+
+
+ol {
+    background-color: red;
+    color: white;
+    margin-bottom: 50px;
+}
+
+ol li:last-child {
+    background-color: green;
+}
+
+ol li:marker {
+    background-color: green;
+}
