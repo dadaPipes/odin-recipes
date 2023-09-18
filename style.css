@@ -1,10 +1,6 @@
-/* font */
-
 *{
     font-family: "Times New Roman", Times, serif;
 }
-
-/*header */
 
 h1{
     background-color: red;
@@ -16,16 +12,10 @@ h2, h3{
     color: black;
 }
 
-/* image */
-
 img{
     height: 200px;
     width: auto;
 }
-
-/* list*/
-
-
 
 ol {
     background-color: red;
@@ -39,4 +29,8 @@ ol li:last-child {
 
 ol li:marker {
     background-color: green;
+}
+
+a {
+    display: block;
 }
